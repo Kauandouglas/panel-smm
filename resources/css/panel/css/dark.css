@@ -1,0 +1,66 @@
+.dark table, .dark pre {
+    color: #ced5db;
+}
+
+.dark .bg-white{
+    background-color: #242424 !important;
+}
+
+.dark .main-sidebar {
+    background-color: #242424;
+}
+
+.dark .main-sidebar .sidebar-menu li a:hover {
+    background-color: #1e1e1e;
+}
+
+.dark .table.table-bordered td, .dark .table.table-bordered th {
+    border-color: #464646 !important;
+}
+
+.dark {
+    background-color: #1e1e1e;
+}
+
+.dark .card {
+    background-color: #242424;
+}
+
+.dark .card.card-statistic-1 .card-body, .card.card-statistic-2 .card-body {
+    color: #fff;
+}
+
+.dark .main-wrapper-1 .section .section-header {
+    border-top: 1px solid #262626;
+}
+
+.dark .card .card-header {
+    border-bottom-color: #3e3e3e;
+}
+
+.dark .section .section-header {
+    background-color: #242424;
+}
+
+.dark .section .section-header h1 {
+    color: #fff;
+}
+
+.dark select, .dark input, .dark textarea{
+    background-color: #1e1e1e !important;
+    border-color: #1c1c1c !important;
+    color: #fff !important;
+}
+
+.dark label {
+    color: #a8a8a8 !important;
+}
+
+.dark .table:not(.table-sm) thead th{
+    color: #fff;
+}
+
+.dark .modal-content{
+    background-color: #1e1e1e;
+    color: #fff;
+}
